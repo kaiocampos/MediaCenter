@@ -1,1 +1,1 @@
-Esse é um dos exercícios para aprendermos html5 e css3, tenho outros exercícios e correções a serem feitas, o que virá no decorrer do tempo
+Esse é um dos exercícios para aprendermos html5 e css3, onde Ciamos o layout de uma clinica medica. 
